@@ -7,17 +7,31 @@ Built using core OOP concepts such as inheritance, abstraction, polymorphism, co
 📁 Features
 -------------------------------------------
 
-✅ Add products to cart
+->Create a user (name + email)
 
-✅ View cart contents
+->Dynamically add products to your cart:
 
-✅ Apply discounts (e.g. Student, Festival)
+♦ Electronics (with price and warranty)
 
-✅ Make payments (UPI or Credit Card)
+♦ Clothing (with price, size, brand)
 
-✅ View full order summary with calculated totals
+->Apply Discounts:
 
-🧱 Technologies Used
+♦ Student (10%)
+
+♦ Festival (20%)
+
+♦ No Discount
+
+->Choose Payment Method:
+
+♦ Credit Card
+
+♦UPI
+
+-->Displays full order summary with timestamp and user info<--
+
+🔧 Technologies Used:
 -------------------------------------------
 
 Java (JDK 17+ recommended)
