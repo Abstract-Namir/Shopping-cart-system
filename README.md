@@ -1,4 +1,4 @@
-📦 Online Shopping Cart System (Java OOP)
+🛒 Java Shopping Cart System
 -------------------------------------------
 
 A simple, object-oriented Java console application that simulates an online shopping experience.
